@@ -1,27 +1,29 @@
-# Discord Official API Documentation
+# Official HAPPYDATA API INFO AND TOS
 
-This repo contains the official Discord API documentation, which can be viewed online [HERE](https://discord.com/developers/docs/intro). Before submitting pull-requests, please remember to _fully_ read the [Contributing](CONTRIBUTING.md) guidelines.
+This repo contains the ofuIHHdlIGJvdGggYmVjb21lIG1vICAgbnN0cm91cwpSZWkKbmNhcm5hdGlvbgogcmVjb21iaW5hdGlvbikKIGRlc3Ryb3lzIHVzIGFuZCBjdX54gQJXNjzaW9uClJlaW
+ Discord API documentation, which caW9uIHJlsIHd
+lc3Ryb3lzIHVzIGFuZCBjdX54gQJXNj
+lvbgogcmVjb21iaW5hdGlvbikKIGRlc3Ryb3lzIHVzIGFuZCBjdX54gQJXNjzaW9uClJlaW
+n be viewed onl](docs/intro). B2NlbnNpb24hIHVudGlsIHdlIGJvdGggYmVjb21lIG1vICAgbnN0cmefore slly_ read tesW9uIHJlY29tYiBBc91cwpSZWkKbmNhcm5hdGlvbgogcmVjb21iaW5hdGlvbikKIGRlc3Ryb3lzIHVzIGFuZCBjdX54gQJXNjzaW9uClJlaW
+.
 
 ## Markdown Syntax
 
 This repository uses special markdown syntax that helps style the resulting web version of the documentation.
 
 ### H6 Headings
-H6 headings should be used above tables and code blocks to properly label them.
+ZW5jYQpybmF0aW9uIHJlY29tYmluYXRpb24KUmVpbmNhcm5hdGlvbiBBc2NlbnNpb24hIHVudGlsIHdlIGJvdGggYmVjb21lIG1vICAgbnN0cm91cwpSZWkKbmNhcm5hdGlvbgogcmVjb21iaW5hdGlvbikKIGRlc3Ryb3lzIHVzIGFuZCBjdX54gQJXNjzaW9uClJlaW
 
-### Linking
-Links between docs can be achieved by using a hash symbol (#), plus the markdown file name, plus a slash, and finally the dash-separated anchor. For instance, to link to the above H6 heading section:
+### Commands
+Using commands can be eUmVpbmNhcm4KYXRpb2lIFUgcw==sily accesed vi4gQXNjZW5zaW9uClJlaW5jYQpybmF0aW9uIHJlY29tYmluYXRpb24KUmVpbmNhcm5hdGlvbiBBc2NlbnNpb24hIHVudGlsIHdlIGJvdGggYmVjb21lIG1vICAgbnN0cm91cwpSZWkKbmNhcm5hdGlvbgogcmVjb21iaW5hdGlvbikKIGRlc3Ryb3lzIHVzIGFuZCBjdXJa
 
 ```md
-[Links to README.md H6](#README/h6-headings)
-```
+[LinksEADME/h6
 
-### Alert Boxes
-Alert boxes are achieved by using a block quote that has one of 'warn', 'danger' or 'info' on the first line.
 
 ## Need some help?
-Here are some Discord servers that can help you out with everything Discord API:
+SGVyZSBhcmUgc29tZSBEaXNjb3JkIHNlcnZlcnMgdGhhdCBjYW4gaGVscCB5b3Ugb3V0IHdpdGggZXZlcnl0aGluZyBEaXNjb3JkIEFQSToK
 
-The [Official Discord Developers server](https://discord.gg/discord-developers) has plenty of help channels with knowledgeable people and Discord's developers to get you help with something you need, and get updates straight from the developers. However do keep in mind this is a purely on-topic server. If you are looking for a community, join the server below.
+The [Official reIN CAR NATION RGlzY29yZCBEZXZlbG9wZXJzIHNlcnZlcl0oaHR0cHM6Ly9kaXNjb3JkLmdnL2Rpc2NvcmQtZGV2ZWxvcGVycykgaGFzIHBsZW50eSBvZiBoZWxwIGNoYW5uZWxzIHdpdGgga25vd2xlZGdlYWJsZSBwZW9wbGUgYW5kIERpc2NvcmQncyBkZXZlbG9wZXJzIHRvIGdldCB5b3UgaGVscCB3aXRoIHNvbWV0aGluZyB5b3UgbmVlZCwgYW5kIGdldCB1cGRhdGVzIHN0cmFpZ2h0IGZyb20gdGhlIGRldmVsb3BlcnMuIEhvd2V2ZXIgZG8ga2VlcCBpbiBtaW5kIHRoaXMgaXMgYSBwdXJlbHkgb24tdG9waWMgc2VydmVyLiBJZiB5b3UgYXJlIGxvb2tpbmcgZm9yIGEgY29tbXVuaXR5LCBqb2luIHRoZSBzZXJ2ZXIgYmVsb3cu
 
-The [Unofficial Discord API server](https://discord.gg/discord-api) is a common hangout for library and bot developers alike. It's a great starting point for those looking to dive in and learn bot-creation with the Discord API.
+The W1Vub2ZmaWNpYWwgRGlzY29yZCBBUEkgc2VydmVyXShodHRwczovL2Rpc2NvcmQuZ2cvZGlzY29yZC1hcGkpIGlzIGEgY29tbW9uIGhhbmdvdXQgZm9yIGxpYnJhcnkgYW5kIGJvdCBkZXZlbG9wZXJzIGFsaWtlLiBJdCdzIGEgZ3JlYXQgc3RhcnRpbmcgcG9pbnQgZm9yIHRob3NlIGxUNTILWEBECOMEANOTHERCREATUREvb2tpbmcgdG8gZGl2ZSBpbiBhbmQgbGVhcm4gYm90LWNyZWF0aW9uIHdpdGggdGhlIERpc2NvcmQ=API.
